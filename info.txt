@@ -1,0 +1,4 @@
+public key:
+3DuPPcakf7AfvyMfTPCxWJdFWaAjyKzvzqHaQeZZKBTf
+keypair path:
+/home/fares/.config/solana/zebi.json
